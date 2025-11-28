@@ -10,11 +10,13 @@ I work with software development, data analysis, and digital solutions.
 - Git, IntelliJ, VS Code  
 
 ### 🎯 Current focus
-- Advanced Programming in Java  
-- Business Intelligence & SQL  
+-  
+- Business Intelligence
 - Introduction to Statistics  
-- Exploring **Cyber Security** basics (network security, encryption, OWASP Top 10)  
-- Learning **Machine Learning** with Python (NumPy, pandas, regression models)
+- Software processes & design patterns (agile methods, SCRUM, architecture)  
+- User Interaction & Mobile Development (UX design, prototyping, mobile UI)
+- Exploring Cyber Security basics  
+- Learning Machine Learning with Python
 
 ### ⭐ Interests
 Software engineering, cyber security, machine learning, and data-driven problem-solving.
