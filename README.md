@@ -10,7 +10,6 @@ I work with software development, data analysis, and digital solutions.
 - Git, IntelliJ, VS Code  
 
 ### 🎯 Current focus
--  
 - Business Intelligence
 - Introduction to Statistics  
 - Software processes & design patterns (agile methods, SCRUM, architecture)  
